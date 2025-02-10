@@ -1,0 +1,10 @@
+while game:GetService("RunService").RenderStepped:wait()
+print("Script By James AKA Softer123hashing")
+print("ha-ha-ha")
+print("We Are Dead!")
+print("This is endless script")
+print("lol")
+print("Make everyone go to F9!!")
+print("Otherwise you're dead!!!")
+print("act!!")
+end
